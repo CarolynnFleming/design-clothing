@@ -1,3 +1,3 @@
 export function makeStatsString(headCount, middleCount, bottomCount) {
-    return '';
+    return ['headCount,middleCount,bottomCount'];
 }
