@@ -81,7 +81,7 @@ function displayStats() {
       times, the middle ${middleCount} 
       times, and the bottom ${bottomCount} times`;
 }
-const statsString = makeStatsString()
+    const statsString = makeStatsString()
 
 
 function displayCatchphrases() {
